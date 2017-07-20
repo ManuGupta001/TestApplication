@@ -42,8 +42,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "", Toast.LENGTH_SHORT).show();
         Log.i(TAG, "doIt: Doing It!");
         TextView tv = (TextView) findViewById(R.id.myTextView);
-        tv.setText("ManuGupta");
-
+        tv.setText("ManuGupta001");
 
     }
 
